@@ -1,0 +1,7 @@
+Order Deny,Allow
+Deny from all
+Allow from 94.181.18.214
+Allow from 45.152.115.48
+Allow from .localnet
+
+RewriteBase /
